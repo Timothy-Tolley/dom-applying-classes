@@ -25,11 +25,15 @@ div.green {
   background-color: green;
 }
 
-.invisible {
+div.orange {
+  background-color: orange;
+}
+
+div.invisible {
   display: none;
 }
 
-.visible {
+div.visible {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
